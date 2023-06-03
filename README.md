@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, futuro FullStack diante dos seus olhos 😁
+## Bem-vindo(a) ao meu perfil, futuro Full Stack diante dos seus olhos 😁
 
  <div>
    <a href="https://github.com/Vitor-H-S">
