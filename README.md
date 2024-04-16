@@ -2,7 +2,6 @@
 
  <div>
    <a href="https://github.com/Vitor-H-S">
-   <img height="180em" src="https://camo.githubusercontent.com/001eb3dee835f226e9e545134ea349f680464423a43d0cb7839f7d3f78e77295/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5669746f722d482d532673686f775f69636f6e733d74727565267468656d653d73796e74687761766526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Vitor-H-S&amp;show_icons=true&amp;theme=synthwave&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
    <img height="180em" src="https://camo.githubusercontent.com/d0aa2dbf59a76ac538d5492d78bb88d71023712619b4e80fd0f31434120ba289/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5669746f722d482d53266c61796f75743d636f6d70616374266c616e67735f636f756e743d36267468656d653d73796e746877617665" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-H-S&amp;layout=compact&amp;langs_count=6&amp;theme=synthwave" style="max-width: 100%;">
    
 
