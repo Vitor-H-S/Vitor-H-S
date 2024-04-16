@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, futuro Full Stack diante dos seus olhos 😁
+## Se acomode e pegue um cafézinho
 
  <div>
    <a href="https://github.com/Vitor-H-S">
@@ -14,11 +14,10 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Redes Sociais 👥
  
 <div> 
   <a href="https://instagram.com/vitor_hugo.mp4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/338323612803006484" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vitor_hugoss@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/Vitor-H-S/Vitor-H-S/blob/output/github-contribution-grid-snake.svg)
